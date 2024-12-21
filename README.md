@@ -1,6 +1,7 @@
 # Social Media Application Using Flask and MongoDB
 
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7U5I2XW5jyWGAYO7Occ1TXgO3uhKDZVq7GA&s
+![Uploading front.gif…]()
+
 
 
 https://github.com/user-attachments/assets/7fd3aac5-747f-4b6c-bf2f-db43beb4880a
