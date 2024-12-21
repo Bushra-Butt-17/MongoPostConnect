@@ -259,15 +259,6 @@ For any questions or inquiries, feel free to contact me via my GitHub: [Bushra-B
 
 
 
-
-
-
-
-
-
-
-
-
 ### Login Page 🔑
 ![Screenshot 202](https://github.com/user-attachments/assets/7d309652-902b-4ebb-8179-aa2b64708c89)
 
