@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/b366a10b-3371-4031-8dd6-ce7c4e6691b7"  />
+![bush-profile](https://github.com/user-attachments/assets/40d1f14f-7b7c-439e-b832-4780ebf671ff)<img src="https://github.com/user-attachments/assets/b366a10b-3371-4031-8dd6-ce7c4e6691b7"  />
 
 
 # Social Media Application Using Flask and MongoDB
@@ -289,9 +289,17 @@ For any questions or inquiries, feel free to contact me via my GitHub: [Bushra-B
 ![Screenshot 2](https://github.com/user-attachments/assets/154abde5-9cd7-4a07-85e4-ee3c790bef80)
 
 ### Profile Page 👤
-![Screenshot 2024-](https://github.com/user-attachments/assets/b67c7fce-9524-4072-8049-ea569822cffb)
-![Screenshot 20240](https://github.com/user-attachments/assets/d328f9ae-68ef-4967-b7d2-68ec0f78386a)
-![Screenshot 2024-](https://github.com/user-attachments/assets/0a17823a-508f-4cfa-b85c-659ef7516758)
+![bush-profile-initial](https://github.com/user-attachments/assets/1b66f197-5c72-45ef-abff-6facdb60e81e)
+![bush-profile](https://github.com/user-attachments/assets/c57e5805-5bd2-454a-8f4e-6c897f3ddbda)
+
+![bush-profile-1](https://github.com/user-attachments/assets/cd7b0964-30ab-4941-b43d-d2a147ef0dbf)
+
+![hasma-profile-1](https://github.com/user-attachments/assets/025cb7c9-593d-4023-9283-15c3120817cd)
+
+[hasma-profile-2](https://github.com/user-attachments/assets/64ae082f-6d7c-4620-b441-47c1dc26c546)
+![hasma-profile-3](https://github.com/user-attachments/assets/5d71db4e-046e-4a31-9147-8b5c4f58e23f)
+
+
 ### All Posts 📜
 
 ![Screenshot 2024-](https://github.com/user-attachments/assets/b67c7fce-9524-4072-8049-ea569822cffb)
