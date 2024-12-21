@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/661a2f22-a24d-4764-9410-9057709e51d0" width="500" aligh="center" />
+<img src="https://github.com/user-attachments/assets/661a2f22-a24d-4764-9410-9057709e51d0" width="300" height="300" align="center" />
 
 
 # Social Media Application Using Flask and MongoDB
