@@ -1,6 +1,8 @@
+<img src="https://github.com/user-attachments/assets/661a2f22-a24d-4764-9410-9057709e51d0" width="500" aligh="center" />
+
+
 # Social Media Application Using Flask and MongoDB
 
-<img src="https://github.com/user-attachments/assets/661a2f22-a24d-4764-9410-9057709e51d0" width="500" />
 
 
 https://github.com/user-attachments/assets/7fd3aac5-747f-4b6c-bf2f-db43beb4880a
