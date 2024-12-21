@@ -1,7 +1,6 @@
 # Social Media Application Using Flask and MongoDB
 
-![Uploading front.gif…]()
-
+![front](https://github.com/user-attachments/assets/661a2f22-a24d-4764-9410-9057709e51d0)
 
 
 https://github.com/user-attachments/assets/7fd3aac5-747f-4b6c-bf2f-db43beb4880a
