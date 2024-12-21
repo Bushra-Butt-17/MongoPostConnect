@@ -1,6 +1,5 @@
-<div style="text-align: center;">
-    <img src="https://github.com/user-attachments/assets/661a2f22-a24d-4764-9410-9057709e51d0" width="900" height="400" />
-</div>
+
+![front](https://github.com/user-attachments/assets/b366a10b-3371-4031-8dd6-ce7c4e6691b7)
 
 
 # Social Media Application Using Flask and MongoDB
