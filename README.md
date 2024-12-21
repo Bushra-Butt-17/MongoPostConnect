@@ -1,5 +1,4 @@
-
-![front](https://github.com/user-attachments/assets/b366a10b-3371-4031-8dd6-ce7c4e6691b7)
+<img src="https://github.com/user-attachments/assets/b366a10b-3371-4031-8dd6-ce7c4e6691b7"  height="200" />
 
 
 # Social Media Application Using Flask and MongoDB
