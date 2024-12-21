@@ -1,15 +1,8 @@
-![bush-profile](https://github.com/user-attachments/assets/40d1f14f-7b7c-439e-b832-4780ebf671ff)<img src="https://github.com/user-attachments/assets/b366a10b-3371-4031-8dd6-ce7c4e6691b7"  />
-
-
-# Social Media Application Using Flask and MongoDB
 
 
 
-https://github.com/user-attachments/assets/7fd3aac5-747f-4b6c-bf2f-db43beb4880a
 
 
-
-https://github.com/user-attachments/assets/d0851558-a6af-4471-be42-eb6b085328f2
 
 
 
@@ -52,7 +45,11 @@ MongoDB is a **NoSQL** document-oriented database that stores data in flexible, 
 
 ## Video Demonstration 🎥
 
-![Video Demonstration](https://github.com/user-attachments/assets/b366a10b-3371-4031-8dd6-ce7c4e6691b7)
+https://github.com/user-attachments/assets/7fd3aac5-747f-4b6c-bf2f-db43beb4880a
+
+
+
+https://github.com/user-attachments/assets/d0851558-a6af-4471-be42-eb6b085328f2
 
 ---
 
