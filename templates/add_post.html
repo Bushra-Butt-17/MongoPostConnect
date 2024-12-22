@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Add Post</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500&family=Roboto:wght@300;400;500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <style>
+        body {
+            background: linear-gradient(to right, #6a11cb, #2575fc); /* Gradient background */
+            font-family: 'Poppins', sans-serif;
+            color: white;
+            height: 100vh;
+            margin: 0;
+        }
+
+        .container {
+            margin-top: 50px;
+        }
+
+        .add-post-container {
+            background-color: rgba(255, 255, 255, 0.1); /* Semi-transparent background */
+            padding: 30px;
+            border-radius: 15px;
+            box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3);
+            width: 60%;
+            margin: 0 auto;
+        }
+
+        .add-post-container h2 {
+            font-size: 32px;
+            text-align: center;
+            margin-bottom: 20px;
+            font-weight: 500;
+        }
+
+        textarea {
+            width: 100%;
+            padding: 15px;
+            font-size: 16px;
+            border-radius: 10px;
+            border: 1px solid #ddd;
+            margin-bottom: 20px;
+            background-color: #f8f9fa;
+        }
+
+        input[type="file"] {
+            padding: 10px;
+            border-radius: 10px;
+            background-color: #f8f9fa;
+            border: 1px solid #ddd;
+            margin-bottom: 20px;
+        }
+
+        /* Original button styles */
+button {
+    background-color: #2575fc;
+    color: white;
+    border-radius: 20px;
+    font-size: 18px;
+    padding: 10px 30px;
+    width: 100%;
+    cursor: pointer;
+}
+
+/* Hover effect for buttons */
+button:hover {
+    background-color: #6a11cb; /* Change to a visible color */
+    color: #fff; /* Keep the text color white */
+    border: 2px solid #fff; /* Add a white border to make it more prominent */
+}
+
+/* Custom buttons for Home and Profile */
+.btn-custom {
+    background-color: #2575fc;
+    color: white;
+    border-radius: 20px;
+    font-size: 18px;
+    padding: 10px 30px;
+    width: 45%;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+/* Hover effect for the custom buttons */
+.btn-custom:hover {
+    background-color: #6a11cb;  /* Use a contrasting color for hover */
+    color: #fff;                /* Keep text white */
+    border: 2px solid #fff;     /* Add a white border to make the button stand out */
+}
+
+
+        .btn-container {
+            display: flex;
+            justify-content: space-between;
+        }
+
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <!-- Add Post Container -->
+        <div class="add-post-container">
+            <h2>Add a New Post</h2>
+
+            <!-- Post Form -->
+            <form action="{{ url_for('add_post') }}" method="POST" enctype="multipart/form-data">
+                <textarea name="text" placeholder="Write your post here" required></textarea><br><br>
+                <input type="file" name="file"><br><br>
+                <button type="submit">Submit</button>
+            </form>
+
+            <!-- Navigation Buttons -->
+            <div class="btn-container">
+                <a href="{{ url_for('index') }}" class="btn-custom">Home</a>
+                <a href="{{ url_for('profile') }}" class="btn-custom">Profile</a>
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>
